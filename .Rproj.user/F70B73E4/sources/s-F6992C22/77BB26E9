@@ -1,0 +1,32 @@
+{
+    "id": "77BB26E9",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598540019855.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "game_data",
+        "caption": "game_data",
+        "totalObservations": 1201,
+        "displayedObservations": 1201,
+        "variables": 45,
+        "cacheKey": "3CCE4F7C",
+        "object": "game_data",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=game_data&cache_key=3CCE4F7C&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2314861393421023778,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598540019855,
+    "read_only": false,
+    "read_only_alternatives": []
+}
